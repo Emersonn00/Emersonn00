@@ -1,3 +1,3 @@
 # Eu sou Emerson Almeida.
-- 🖥️ Aspirante a programador - JavaScript   
+- 🖥️ Aspirante a programador - Front-end | JavaScript | React   
 
